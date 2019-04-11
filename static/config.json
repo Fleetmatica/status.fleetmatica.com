@@ -1,11 +1,11 @@
 {
-  "title": "Cogs.Red Status",
-  "name": "cogs.red",
-  "link": "http://cogs.red",
-  "repo": "orels1/Red-Portal",
-  "owner": "orels1",
-  "statusRepo": "orels1/status.cogs.red",
-  "services": ["API", "Website", "Parser"],
+  "title": "Fleetmatica Status",
+  "name": "my.fleetmatica.com",
+  "link": "https://my.fleetmatica.com",
+  "repo": "Fleetmatica/status.fleetmatica.com",
+  "owner": "Fleetmatica",
+  "statusRepo": "Fleetmatica/status.fleetmatica.com",
+  "services": ["Blackbox", "Analytics", "Report", "API", "Website"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
