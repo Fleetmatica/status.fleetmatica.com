@@ -5,7 +5,7 @@
   "repo": "Fleetmatica/status.fleetmatica.com",
   "owner": "Fleetmatica",
   "statusRepo": "Fleetmatica/status.fleetmatica.com",
-  "services": ["Blackbox", "Analytics", "Report", "API", "Website"],
+  "services": ["IoT", "Analytics", "Report", "API"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
